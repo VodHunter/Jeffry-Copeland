@@ -2,7 +2,7 @@
 
 # configs
 AUUID=f921988e-a8b7-46a6-ab6c-5d1f788b8338
-CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page288/seo-master.zip
+CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page290/restoran.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
