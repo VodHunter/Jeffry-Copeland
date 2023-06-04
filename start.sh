@@ -2,7 +2,7 @@
 
 # configs
 AUUID=f921988e-a8b7-46a6-ab6c-5d1f788b8338
-CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page290/wave-cafe.zip
+CADDYIndexPage=https://www.free-css.com/assets/files/free-css-templates/download/page290/tourist.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
